@@ -1,0 +1,74 @@
+C:\Users\noura\source\repos\food_ordering\food_ordering\bin\Debug\food_ordering.exe.config
+C:\Users\noura\source\repos\food_ordering\food_ordering\bin\Debug\food_ordering.exe
+C:\Users\noura\source\repos\food_ordering\food_ordering\bin\Debug\food_ordering.pdb
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.csprojAssemblyReference.cache
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.Form1.resources
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.Properties.Resources.resources
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.GenerateResource.cache
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.CoreCompileInputs.cache
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.exe
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.pdb
+C:\Users\noura\source\repos\food_ordering\food_ordering\bin\Debug\Oracle.DataAccess.dll
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.CopyComplete
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.Form2.resources
+C:\Users\noura\source\repos\food_ordering\food_ordering\obj\Debug\food_ordering.Form3.resources
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\food_ordering.exe.config
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\food_ordering.exe
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\food_ordering.pdb
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.Properties.Resources.resources
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.GenerateResource.cache
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.CoreCompileInputs.cache
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.exe
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.pdb
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.AssemblyReference.cache
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\stdole.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\FlashControlV71.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.Form4.resources
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.LoginForm.resources
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.customerForm.resources
+C:\Users\ALKODS\Desktop\food_ordering\food_ordering\obj\Debug\food_ordering.deliveryForm.resources
+D:\sw project final\food_ordering\food_ordering\bin\Debug\food_ordering.exe.config
+D:\sw project final\food_ordering\food_ordering\bin\Debug\food_ordering.exe
+D:\sw project final\food_ordering\food_ordering\bin\Debug\food_ordering.pdb
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\ShockwaveFlashObjects.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\sw project final\food_ordering\food_ordering\bin\Debug\stdole.dll
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.csprojAssemblyReference.cache
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.LoginForm.resources
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.customerForm.resources
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.deliveryForm.resources
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.Form4.resources
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.Properties.Resources.resources
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.GenerateResource.cache
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.CoreCompileInputs.cache
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.csproj.CopyComplete
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.exe
+D:\sw project final\food_ordering\food_ordering\obj\Debug\food_ordering.pdb
